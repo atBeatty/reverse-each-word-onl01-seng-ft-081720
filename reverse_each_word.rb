@@ -5,8 +5,8 @@
 #     new_sentence << "#{word.reverse} "
 #   end
 #   new_sentence.strip
-# 
-# 
+#
+#
 # end
 def reverse_each_word(sentence)
   words = sentence.split(" ")
