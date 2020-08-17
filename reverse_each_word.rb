@@ -1,4 +1,4 @@
-def reverse_each_word_each(sentence)
+def reverse_each_word_with_each(sentence)
   words = sentence.split(" ")
   new_sentence = ''
   words.each do |word|
